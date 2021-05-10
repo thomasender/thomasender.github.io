@@ -373,3 +373,37 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+.whitePaper {
+    width: 100%;
+    height: 550px;
+    background: rgba(255, 255, 255, 0.63);
+    border-radius: 25px;
+}
+
+.orangePaper {
+    width: 100%;
+    height: 250px;
+    background: #d7a004;
+    border-radius: 25px;
+}
+
+.turkisPaper {
+  width: 100%;
+  height: 500px;
+  background: #1D809F;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.centerme{
+  width: 50%;
+  margin: 0 auto;
+}
+.centerme2{
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  background: #d7a004;
+  border-radius: 25px;
+}
